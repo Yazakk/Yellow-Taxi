@@ -38,7 +38,7 @@ Before going through the tasks, I skimed through the [*data dictionary*](https:/
    [*Part_2*](Solutions/Part_2.md) explains how a Data Pipeline can be designed for ingesting, transforming, and loading NYC Yellow taxi data taking into account the tools to be used, how to handle errors, and how to ensure data quality and data governance.
    
   ### Part 3 and 4:
-  Run the [*python_notebook*](Solutions/Part_3_4.ipynb) to generate the solution for Part 3 and Part 
+  Run the [*python_notebook*](Solutions/Part_3_4.ipynb) to generate the solution for Part 3 and Part 4.
 
 
    
