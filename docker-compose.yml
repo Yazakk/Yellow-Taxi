@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:latest
+    container_name: yellow_taxi_container
+    environment:
+      POSTGRES_USER: data_engineer
+      POSTGRES_PASSWORD: 123456!
+      POSTGRES_DB: yellow_taxi
+    ports:
+      - "5432:5432"
+    networks:
+      - my_network  
+networks:
+  my_network:  
+    driver: bridge
