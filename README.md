@@ -21,7 +21,8 @@ Before going through the tasks, I skimed through the [*data dictionary*](https:/
   
   ### Step 2: Set Up the PostgreSQL Docker Container
   1. Create python environment
-  2. Install python packages in requirements file
+  2. Activate the environment
+  3. Install python packages in requirements file
  
  ## Solutions
   ### Part 1:
